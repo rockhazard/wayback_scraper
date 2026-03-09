@@ -1,5 +1,6 @@
 .venv/
 venv/
+wayback_scraper/
 __pycache__/
 .ruff_cache/
 .pytest_cache/
